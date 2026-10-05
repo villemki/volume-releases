@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Volume</title>
+    <item>
+      <title>Volume 0.1.0</title>
+      <pubDate>Mon, 05 Oct 2026 21:14:59 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/villemki/volume-releases/releases/download/v0.1.0/Volume-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="sWL84L0DoHYbglAQfAYtc61Ec7WHSlDF2wEEz193oRECgu4gDsrfqfOJ7gLbtb3SrGTX+l3zG5ae9EgOs5ykBg==" length="3727719" />
+    </item>
+  </channel>
+</rss>
