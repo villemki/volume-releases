@@ -3,12 +3,12 @@
   <channel>
     <title>Volume</title>
     <item>
-      <title>Volume 0.1.0</title>
-      <pubDate>Mon, 05 Oct 2026 21:14:59 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>Volume 0.2.0</title>
+      <pubDate>Tue, 06 Oct 2026 13:08:31 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/villemki/volume-releases/releases/download/v0.1.0/Volume-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="sWL84L0DoHYbglAQfAYtc61Ec7WHSlDF2wEEz193oRECgu4gDsrfqfOJ7gLbtb3SrGTX+l3zG5ae9EgOs5ykBg==" length="3727719" />
+      <enclosure url="https://github.com/villemki/volume-releases/releases/download/v0.2.0/Volume-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="aDwP49MGECHDvomlzMPKcHRl11ukPmQbVGzUzwZH+xwbgKlls5ysyzseX/gnq1f4Idm3MKaONxqNdErUeOseAg==" length="5927034" />
     </item>
   </channel>
 </rss>
